@@ -361,7 +361,4 @@ streamlit run dashboard/app.py
 ---
 
 # 👨‍💻 Author: Namrata
-
-Developed as an AI-powered cybersecurity behavioral anomaly detection system demonstrating the application of machine learning, behavioral analytics, explainable AI, and interactive security visualization for modern Security Operations Centers (SOC).
-
 ---
