@@ -97,7 +97,7 @@ cyber-anomaly/
 │   └── scaler.joblib
 │
 ├── report.md
-└── README.md
+README.md
 ```
 
 ---
